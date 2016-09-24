@@ -1,10 +1,6 @@
 Jekyll Preview Tag
 ==================
-Generate link previews inside you articles.
-
-This plugin uses nokogiri and ruby-readability to create a preview and create a local cached snippet.
-
-Example: http://kaffeezucht.de/gelesen/2014/01/13/gelesen-2013.html
+This plugin uses nokogiri and ruby-readability to create previews and a locally cached snippets.
 
 Required Gems/Libraries: nokogiri, open-uri, ruby-readability, digest
 
